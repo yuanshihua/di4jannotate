@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 阅读springframework-reference的收获
 
 
@@ -48,7 +47,5 @@ public static void main(String[] args) {
     myService.doStuff();
 }
 ```
-=======
-# 阅读文档的体会
 
->>>>>>> branch 'master' of git@github.com:yuanshihua/di4jannotate.git
+
